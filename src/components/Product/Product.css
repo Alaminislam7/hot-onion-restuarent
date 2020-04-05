@@ -1,0 +1,25 @@
+.card {
+  border: none !important;
+  text-align: center;
+  margin-top: 20px;
+  transition: .3s;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.card:hover {
+  box-shadow: 0px 0px 30px -12px #ddd;
+}
+.card-body h4 {
+  font-weight: bold;
+  font-size: 17px;
+}
+.card-body p {
+  font-size: 16px;
+}
+a {
+  color: #4f4d4d !important;
+}
+a:hover {
+  color: #4f4d4d;
+  text-decoration: none !important;
+}

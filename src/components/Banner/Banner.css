@@ -1,0 +1,28 @@
+.top-banner img{
+    width: 100%;
+}
+.top-banner{
+    background: #fff;
+    padding-top: 30px;
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    left: 28%;
+    top: 50%;
+  }
+  .btn {
+    position: absolute;
+    top: -37px;
+    background: #F91944 !important;
+    border-radius: 36px !important;
+    border: none !important;
+    right: 0;
+  }
+  .search-btn input {
+    border-radius: 50px;
+    outline: none;
+  }
+  .search-btn {
+    position: absolute !important;
+}

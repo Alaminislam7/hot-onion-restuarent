@@ -1,0 +1,12 @@
+
+.s-btn button {
+    background: none;
+    border: none;
+    margin-top: 30px;
+    position: relative;
+    transition: .3s;
+}
+.s-btn button:hover {
+    border-bottom: 2px solid #e61212;
+    color: #e61212;
+}

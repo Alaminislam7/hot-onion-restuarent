@@ -1,0 +1,18 @@
+.logo img {
+    max-width: 120px;
+  }
+
+  .menu a {
+    color: #201e1e;
+  }
+  .menu li{
+    transition: .4s;
+    margin-left: 10px;
+  }
+  .menu li:hover {
+    background: #F91944;
+    border-radius: 50px;
+  }
+  .header-top-area {
+    margin-top: 30px;
+  }

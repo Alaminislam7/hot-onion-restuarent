@@ -1,0 +1,29 @@
+.productDetails img {
+    max-width: 85%;
+    margin-left: 50px;
+  }
+  .productContent h1 {
+    font-weight: bold;
+  }
+  .productContent h2 {
+    font-weight: bold;
+  }
+  .s-btn {
+    background-color: #F91944;
+    color: #fff;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 10px;
+  }
+  .productContent {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .productDetails {
+    padding-top: 70px;
+  }
+  .icon{
+      margin-right: 5px;
+  }
